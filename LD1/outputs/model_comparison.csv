@@ -1,0 +1,4 @@
+model,best_params,accuracy,precision,recall,f1,roc_auc
+logistic_regression,"{'clf__C': 2.0, 'tfidf__max_features': 20000, 'tfidf__ngram_range': (1, 2)}",0.905,0.8979952830188679,0.9138,0.9058287073750991,0.9656504399999999
+mlp,"{'clf__alpha': 0.0001, 'clf__hidden_layer_sizes': (100,), 'tfidf__max_features': 10000}",0.9018,0.9022827392871445,0.9012,0.9017410446267761,0.96411184
+random_forest,"{'clf__max_depth': None, 'clf__n_estimators': 250, 'tfidf__max_features': 10000}",0.8603,0.8635721493440969,0.8558,0.8596685082872928,0.93601678

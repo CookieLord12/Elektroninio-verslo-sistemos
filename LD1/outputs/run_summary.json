@@ -1,0 +1,9 @@
+{
+  "best_model": "logistic_regression",
+  "models_compared": [
+    "logistic_regression",
+    "mlp",
+    "random_forest"
+  ],
+  "output_dir": "C:\\Users\\matas\\Desktop\\Elektroninio verslo sistemos\\LD1\\outputs"
+}
