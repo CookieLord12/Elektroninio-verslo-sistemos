@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+    <rect width="800" height="800" fill="#FAF2F4"/>
+    <rect x="40" y="40" width="720" height="720" rx="28" fill="white" opacity="0.75"/>
+    <text x="400" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#8D5865" letter-spacing="4">HANDMADE JEWELRY</text>
+    
+        <circle cx="400" cy="230" r="95" fill="none" stroke="#8D5865" stroke-width="10" opacity="0.28"/>
+        <path d="M400 255 C360 255 338 285 338 320 C338 365 368 395 400 430 C432 395 462 365 462 320 C462 285 440 255 400 255 Z" fill="#D9A3B0" opacity="0.90"/>
+        <circle cx="400" cy="242" r="14" fill="#8D5865"/>
+        
+    <text x="400" y="620" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#8D5865">Rose Quartz Pendant</text>
+    <text x="400" y="664" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#D9A3B0" letter-spacing="3">NECKLACES</text>
+    <text x="400" y="718" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#8D5865" opacity="0.75">Demo catalog image for academic project</text>
+    </svg>

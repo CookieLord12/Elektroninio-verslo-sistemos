@@ -1,0 +1,52 @@
+version: '3.9'
+services:
+  db:
+    image: mariadb:11.4
+    container_name: prestashop-db
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: prestashop
+      MYSQL_USER: prestashop
+      MYSQL_PASSWORD: prestashop
+    command: --default-authentication-plugin=mysql_native_password
+    volumes:
+      - db_data:/var/lib/mysql
+    ports:
+      - "3307:3306"
+
+  prestashop:
+    image: prestashop/prestashop:latest
+    container_name: prestashop-app
+    restart: unless-stopped
+    depends_on:
+      - db
+    environment:
+      DB_SERVER: db
+      DB_NAME: prestashop
+      DB_USER: prestashop
+      DB_PASSWD: prestashop
+      PS_DEV_MODE: 1
+      PS_INSTALL_AUTO: 1
+      PS_DOMAIN: localhost:8080
+      ADMIN_MAIL: admin@example.com
+      ADMIN_PASSWD: Admin123!
+      PS_FOLDER_ADMIN: admin-dev
+      PS_FOLDER_INSTALL: install-dev
+    ports:
+      - "8080:80"
+    volumes:
+      - prestashop_data:/var/www/html
+
+  images:
+    image: nginx:alpine
+    container_name: prestashop-images
+    restart: unless-stopped
+    ports:
+      - "8081:80"
+    volumes:
+      - ./assets:/usr/share/nginx/html:ro
+
+volumes:
+  db_data:
+  prestashop_data:

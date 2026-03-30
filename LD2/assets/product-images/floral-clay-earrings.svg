@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+    <rect width="800" height="800" fill="#EEF5EC"/>
+    <rect x="40" y="40" width="720" height="720" rx="28" fill="white" opacity="0.75"/>
+    <text x="400" y="110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#55714A" letter-spacing="4">HANDMADE JEWELRY</text>
+    
+        <circle cx="345" cy="220" r="16" fill="#55714A"/>
+        <circle cx="455" cy="220" r="16" fill="#55714A"/>
+        <path d="M345 236 C332 290 322 305 305 350 C328 382 343 397 345 430 C347 397 362 382 385 350 C368 305 358 290 345 236 Z" fill="#8DAA7A"/>
+        <path d="M455 236 C442 290 432 305 415 350 C438 382 453 397 455 430 C457 397 472 382 495 350 C478 305 468 290 455 236 Z" fill="#8DAA7A"/>
+        
+    <text x="400" y="620" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#55714A">Floral Clay Earrings</text>
+    <text x="400" y="664" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#8DAA7A" letter-spacing="3">EARRINGS</text>
+    <text x="400" y="718" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#55714A" opacity="0.75">Demo catalog image for academic project</text>
+    </svg>
