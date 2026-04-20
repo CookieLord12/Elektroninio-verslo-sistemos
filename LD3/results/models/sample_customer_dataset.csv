@@ -1,0 +1,21 @@
+﻿customer_id,customer_zip_code_prefix,customer_city,customer_state,order_count,total_spent,avg_order_value,total_items,avg_items_per_order,total_products,avg_freight,avg_review_score,avg_delivery_days,avg_delay_days,last_order_status,favorite_category,avg_payment_installments,avg_payment_type_count,avg_sellers,avg_product_weight,avg_product_photos,recency_days,customer_lifetime_days,purchase_frequency,target,cutoff_date,prediction_days
+06b8999e2fba1a1fbc88172c00ba8bc7,14409,franca,SP,1,146.87,146.87,1.0,1.0,1.0,21.88,4.0,8.0,-11.0,delivered,moveis_escritorio,2.0,1.0,1.0,8683.0,1.0,153,0,1.0,0,2017-10-17,365
+879864dab9bc3047522c92c82e1212b8,89254,jaragua do sul,SC,2,565.88,282.94,2.0,1.0,2.0,29.68,5.0,11.5,-10.0,delivered,esporte_lazer,1.0,1.0,1.0,2675.0,1.5,1,30,0.06451612903225806,0,2017-10-17,365
+b2d1536598b73a9abd18e0d75d92f0a3,18682,lencois paulista,SP,1,117.31,117.31,1.0,1.0,1.0,18.31,4.0,11.0,-12.0,delivered,climatizacao,1.0,1.0,1.0,2000.0,5.0,37,0,1.0,0,2017-10-17,365
+9b8ce803689b3562defaad4613ef426f,5416,sao paulo,SP,1,102.03,102.03,1.0,1.0,1.0,12.13,,26.0,8.0,delivered,cama_mesa_banho,1.0,2.0,1.0,1383.0,1.0,158,0,1.0,0,2017-10-17,365
+154c4ded6991bdfa3cd249d11abf4130,88034,florianopolis,SC,1,123.0,123.0,1.0,1.0,1.0,18.0,5.0,6.0,-32.0,delivered,informatica_acessorios,1.0,1.0,1.0,2800.0,1.0,64,0,1.0,0,2017-10-17,365
+690172ab319622688d3b4df42f676898,74914,aparecida de goiania,GO,1,232.71,232.71,3.0,3.0,1.0,53.010000000000005,1.0,10.0,-12.0,delivered,ferramentas_jardim,2.0,1.0,1.0,1650.0,2.0,1,0,1.0,0,2017-10-17,365
+237098a64674ae89babdc426746260fc,82820,curitiba,PR,1,94.63,94.63,1.0,1.0,1.0,14.73,5.0,6.0,-20.0,delivered,bebes,1.0,1.0,1.0,400.0,2.0,185,0,1.0,0,2017-10-17,365
+6e359a57a91f84095cc64e1b351aef8c,4571,sao paulo,SP,1,47.59,47.59,1.0,1.0,1.0,17.6,3.0,3.0,-18.0,delivered,moveis_cozinha_area_de_servico_jantar_e_jardim,1.0,1.0,1.0,1000.0,1.0,154,0,1.0,0,2017-10-17,365
+261cb4f92498ca05d5bd1a327a261d9c,12235,sao jose dos campos,SP,1,73.34,73.34,1.0,1.0,1.0,13.44,4.0,13.0,-10.0,delivered,ferramentas_jardim,1.0,1.0,1.0,1550.0,2.0,34,0,1.0,0,2017-10-17,365
+b2bed119388167a954382cca36c4777f,27525,resende,RJ,2,437.78,218.89,6.0,3.0,6.0,49.964999999999996,5.0,16.0,-6.5,delivered,cama_mesa_banho,8.0,1.0,1.5,1187.5,1.75,124,0,2.0,0,2017-10-17,365
+41c8f4b570869791379a925899a6af8a,7170,guarulhos,SP,1,103.55,103.55,1.0,1.0,1.0,13.65,4.0,12.0,-12.0,delivered,cama_mesa_banho,1.0,1.0,1.0,1200.0,1.0,3,0,1.0,0,2017-10-17,365
+54f755c3fd2709231f9964a1430c5218,93415,novo hamburgo,RS,1,60.0,60.0,1.0,1.0,1.0,15.1,5.0,11.0,-11.0,delivered,artes,2.0,1.0,1.0,200.0,10.0,67,0,1.0,0,2017-10-17,365
+0ccd415657ae8a6cd1c71b00155a019e,7053,guarulhos,SP,1,30.4,30.4,1.0,1.0,1.0,13.92,5.0,4.0,-6.0,delivered,esporte_lazer,1.0,1.0,1.0,1182.0,2.0,7,0,1.0,0,2017-10-17,365
+4d27341acd30a36bca39008ee9bb9050,89254,jaragua do sul,SC,1,239.64,239.64,1.0,1.0,1.0,15.74,5.0,14.0,-13.0,delivered,consoles_games,4.0,1.0,1.0,340.0,1.0,263,0,1.0,0,2017-10-17,365
+8247b5583327ab8be19f96e1fb82f77b,23970,parati,RJ,1,809.7,809.7,1.0,1.0,1.0,21.28,1.0,10.0,-15.0,delivered,relogios_presentes,1.0,1.0,1.0,450.0,1.0,129,0,1.0,0,2017-10-17,365
+aa9f03ecd3728c9bd12e6d962c66c7cb,75388,trindade,GO,1,232.22,232.22,2.0,2.0,1.0,32.28,5.0,10.0,-14.0,delivered,cama_mesa_banho,5.0,1.0,1.0,3000.0,1.0,97,0,1.0,0,2017-10-17,365
+8276de07ef25225d412b8462d73f8664,90010,porto alegre,RS,1,146.21,146.21,1.0,1.0,1.0,16.61,4.0,29.0,-6.0,delivered,moveis_escritorio,1.0,1.0,1.0,2600.0,1.0,197,0,1.0,0,2017-10-17,365
+a02f66c3af7b16eec19ddcd98b645fe3,13323,salto,SP,1,27.68,27.68,1.0,1.0,1.0,7.78,3.0,2.0,-15.0,delivered,informatica_acessorios,1.0,1.0,1.0,350.0,1.0,15,0,1.0,0,2017-10-17,365
+f64cdee66599119324ce57a97e43700d,13212,jundiai,SP,1,46.78,46.78,1.0,1.0,1.0,7.78,3.0,7.0,-10.0,delivered,alimentos_bebidas,1.0,1.0,1.0,1200.0,2.0,35,0,1.0,0,2017-10-17,365
+7ab7a537b678b6dd73d825ff6ee7be9d,29307,cachoeiro de itapemirim,ES,1,252.42,252.42,1.0,1.0,1.0,26.42,5.0,13.0,-7.0,delivered,cama_mesa_banho,3.0,1.0,1.0,5850.0,1.0,38,0,1.0,0,2017-10-17,365
