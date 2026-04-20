@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00      5853
+           1       1.00      0.81      0.89       293
+
+    accuracy                           0.99      6146
+   macro avg       1.00      0.90      0.94      6146
+weighted avg       0.99      0.99      0.99      6146
+
+
+Confusion matrix:
+[[5853    0]
+ [  56  237]]
+
+Best params:
+{'model__max_depth': None, 'model__min_samples_split': 2, 'model__n_estimators': 120}

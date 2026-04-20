@@ -1,0 +1,14 @@
+Vykdymo santrauka
+================
+Duomenų katalogas: ./data/olist
+Rezultatų katalogas: ./results
+Įrenginys: auto
+Režimas: fast
+Prognozavimo langas (dienomis): 365
+Geriausias modelis: Atsitiktinis miškas
+
+Klasių pasiskirstymas:
+target
+0    29262
+1     1466
+Name: count, dtype: int64
